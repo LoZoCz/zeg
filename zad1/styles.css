@@ -76,6 +76,10 @@ body {
   scale: 1.05;
 }
 
+.little-title {
+  text-transform: uppercase;
+}
+
 .first-div,
 .third-div {
   display: grid;
@@ -116,4 +120,13 @@ body {
   position: absolute;
   bottom: 2rem;
   right: 8rem;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.list {
+  display: grid;
+  gap: 1rem;
 }
